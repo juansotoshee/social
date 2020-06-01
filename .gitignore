@@ -8,3 +8,6 @@ Saved/Config/Windows/Editor.ini
 Saved/Config/Windows/Editor.ini
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Saved/Config/Windows/Engine.ini
+*.log
+*.ini
+*.bin
