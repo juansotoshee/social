@@ -1,0 +1,5 @@
+D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Development\Social01\Definitions.Social01.h
+D:\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Developer\Unreal Projects\social\Source\Social01/Public/TextFileManager.h
+D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Inc\Social01\TextFileManager.generated.h

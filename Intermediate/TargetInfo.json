@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Social01",
+			"Path": "D:\\Developer\\Unreal Projects\\social\\Source\\Social01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Social01Editor",
+			"Path": "D:\\Developer\\Unreal Projects\\social\\Source\\Social01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

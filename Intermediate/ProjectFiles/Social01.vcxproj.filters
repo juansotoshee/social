@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Social01.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BADEA613-C7E7-49F7-8BA1-068358EFF55C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Social01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Social01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\Scanned3DPeoplePack.png" />
+    <None Include="..\..\Social01.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{06FA58FC-34AD-4453-B810-5BB37F576B17}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Social01">
+      <UniqueIdentifier>{076EAC33-C1FD-4E5E-A937-A47D87475B49}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Social01\Social01.Build.cs">
+      <Filter>Source\Social01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Social01\Social01.cpp">
+      <Filter>Source\Social01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Social01\Social01.h">
+      <Filter>Source\Social01</Filter>
+    </ClInclude>
+    <Filter Include="Source\Social01\Private">
+      <UniqueIdentifier>{2B222946-0612-43FD-B755-57675D8E2DE6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Social01\Private\TextFileManager.cpp">
+      <Filter>Source\Social01\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Social01\Public">
+      <UniqueIdentifier>{DD1897B8-9542-4042-9E32-F9B882A78773}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Social01\Public\TextFileManager.h">
+      <Filter>Source\Social01\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Social01-3356.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\Social01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Development\Social01\TextFileManager.cpp.obj"
+"D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Development\Social01\Social01.cpp.obj"
+"D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Development\Social01\Social01.init.gen.cpp.obj"
+"D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Development\Social01\TextFileManager.gen.cpp.obj"
+"D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Development\Social01\Default.rc2.res"
+/OUT:"D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Development\Social01\UE4Editor-Social01-3356.lib"
+/INCLUDE:IMPLEMENT_MODULE_Social01

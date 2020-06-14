@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Developer\\Unreal Projects\\social\\Source\\Social01\\Social01.Build.cs",
+		"D:\\Developer\\Unreal Projects\\social\\Source\\Social01.Target.cs",
+		"D:\\Developer\\Unreal Projects\\social\\Source\\Social01Editor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

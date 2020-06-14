@@ -1,0 +1,2 @@
+D:\Developer\Unreal Projects\social\Intermediate\Build\Win64\UE4Editor\Development\Social01\Definitions.Social01.h
+D:\Developer\Unreal Projects\social\Source\Social01\Social01.h
